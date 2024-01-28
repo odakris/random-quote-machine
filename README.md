@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-Live demo of **[Random Quote Machine](https://codepen.io/odakris/full/VwGoGXW)**
+Live demo of **[Random Quote Machine](https://odakris-random-quote-machine.vercel.app/)**
 
 ## Description
 
