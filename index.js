@@ -103,6 +103,10 @@ const getRandomNum = (numMax) => {
   return Math.floor(Math.random() * numMax);
 };
 
-$(document).ready(function () {
+// $(document).ready(function () {
+//   getQuotesFromApi();
+// });
+
+document.addEventListener("DOMContentLoaded", () => {
   getQuotesFromApi();
 });
